@@ -1,4 +1,4 @@
-Hi there 👋
+👋 Hi there, I am Buyang Li
 
 I'm an experienced data scientist with a demonstrated history of working in the analytics consulting industry. I have 7 years of experience in the financial domain working with consulting firms and providing expertise in financial analysis, statistical analysis, predictive modeling, machine learning, process optimization, and data visualization. I am skilled in analyzing large datasets in Python, R, SQL, SAS, and Excel, generating recommendations, and presenting them to the stakeholders through visuals in Microsoft PowerPoint and Tableau.
 
